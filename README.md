@@ -1,16 +1,5 @@
-- 👋 Hi, I’m @Medveddo
-- 👀 I’m interested in backend development, computer science at all
-- 🏫 I'll undergraduate in computer science on summer 2022
-- 🐍 Since June 2021 I'm working in Sovcombank Technologies as python developer
-- 🌱 Want to work on some great project(s) on Golang and learn some frontend framework
-- ✨ Trying to find most efficient solution everywhere (It doesn't always work out 🤡)
-- 📫 How to reach me - @Medveddo in Telegram
-
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
-
-<!---
-Medveddo/Medveddo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vitaly Sizikov.
+- 👀 I’m interested in backend development and all aspects of computer science.
+- 🎓 Bachelor's in Computer Science; currently pursuing a Master's at Novosibirsk State Technical University.
+- 💼 Software Engineer at VK.
+- 📫 Reach out to me on Telegram: @Medveddo.
