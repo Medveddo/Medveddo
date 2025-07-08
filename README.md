@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Vitaly Sizikov.
-- 👀 I’m interested in backend development and all aspects of computer science.
-- 🎓 Bachelor's in Computer Science; currently pursuing a Master's at Novosibirsk State Technical University.
-- 💼 Software Engineer at VK.
-- 📫 Reach out to me on Telegram: @Medveddo.
+- 👨‍💻 Software Engineer (primarily backend) with 4+ years of industry experience..
+- 🎓 Master's and Bachelor's degrees in Computer Science from Novosibirsk State Technical University.
+- 💼 Software Engineer at VK (ex-Sovcombank Technologies)
+- 🚀 Passionate about backend development, information systems, and all aspects of computer science.
+- 📫 Reach out: [Telegram](https://t.me/Medveddo) | [LinkedIn](https://www.linkedin.com/in/vitaliksiz/)
